@@ -1,0 +1,32 @@
+[
+    {
+        "platform": "spotify",
+        "account_id": "spotify_perso",
+        "export_dir": "../data/exports/spotify_perso"
+    },
+    {
+        "platform": "spotify",
+        "account_id": "spotify_promo",
+        "export_dir": "../data/exports/spotify_promo"
+    },
+    {
+        "platform": "deezer",
+        "account_id": "deezer_perso",
+        "export_dir": "../data/exports/deezer_perso"
+    },
+    {
+        "platform": "youtube",
+        "account_id": "youtube_perso",
+        "export_dir": "../data/exports/youtube"
+    },
+    {
+        "platform": "amazon",
+        "account_id": "amazon_perso",
+        "export_dir": "../data/exports/amazon"
+    },
+    {
+        "platform": "soundcloud",
+        "account_id": "soundcloud_perso",
+        "export_dir": "../data/exports/soundcloud"
+    }
+]
