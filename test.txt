@@ -1,0 +1,5 @@
+Spotify : Attention, il faut demander l'Historique de diffusion étendu (Extended Streaming History) dans les paramètres de confidentialité. Cela prend entre 15 et 30 jours à arriver, mais tu auras un fichier JSON massif avec chaque morceau écouté depuis la création de ton compte, avec le timestamp exact et les millisecondes écoutées (ms_played).
+
+YouTube Music : Via Google Takeout. Tu sélectionnes uniquement "YouTube et YouTube Music" et tu obtiendras un fichier watch-history.json ou html.
+
+Amazon / Deezer / Apple : Demandes d'archives de données personnelles depuis les paramètres de compte.
