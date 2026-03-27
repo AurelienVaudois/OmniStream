@@ -1,0 +1,39 @@
+# Data files (RGPD exports, database)
+data/exports/
+data/*.db
+data/*.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# Node.js
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env.production
+
+# Secrets / tokens
+tokens.json
+*.secret
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
